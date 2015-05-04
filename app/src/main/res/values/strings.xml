@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula 10 CRUD Insert</string>
+
+    <string name="hello_world">http://professormarcomaddo.blogspot.com.br/</string>
+    <string name="action_settings">Sair</string>
+    <string name="title_activity_dashboard">Aula 09 - Dashboard</string>
+</resources>
